@@ -24,6 +24,7 @@ public class Interest {
 		
 		//calculate interest by multiplying the 3 items together
 		System.out.println("Interest = principal x rate x time: $" + principal * rate * time);
+		scanner.close();
 	}
 
 }

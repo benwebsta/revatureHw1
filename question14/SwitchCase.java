@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class SwitchCase {
 
 	public static void main(String[] args) {
-		switchCase(3);
+		switchCase(1);
 	}
 	
 	/**
